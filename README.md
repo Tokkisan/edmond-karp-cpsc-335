@@ -11,8 +11,7 @@ lists/arrays: ordered set of elmenets and used in
 adacency matrix: a matrix that is used to represent a graph but with lists or arrays
 
 queue: First In First Out, used in the bfs to keep track of the nodes visited
-
-
+<br>
 When using edmonds karp algorithm the augmented paths are:
 [0,2,3,1] with a flow of 2
 [0,2,1] with a flow of 1
