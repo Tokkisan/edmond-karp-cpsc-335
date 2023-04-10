@@ -13,4 +13,13 @@ adacency matrix: a matrix that is used to represent a graph but with lists or ar
 queue: First In First Out, used in the bfs to keep track of the nodes visited
 
 
+When using edmonds karp algorithm the augmented paths are:
+[0,2,3,1] with a flow of 2
+[0,2,1] with a flow of 1
+and
+[0,2,3,4,1] with a flow of 2
+
+so when putting in the graph, sink, and source values into the algorithm the output 
+for max_flow becomes 5. 
+
 
