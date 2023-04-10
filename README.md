@@ -1,5 +1,5 @@
 Edmonds-Karp algorithm is used to find the maximum flow of a graph, one key difference between this algorithm 
-and Ford's is this one uses a bfs approach while Ford uses a DFS approach. 
+and Ford's is this one uses a bfs approach while Ford can use a dfs or bfs approach. 
 
 
 The datastructures used in EdmondsKarp algorithm are:
